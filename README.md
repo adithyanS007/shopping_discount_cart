@@ -59,10 +59,10 @@ Total: $1072
 
 | Scenario | Screenshot |
 |---------|------------|
-| Case 1 - Flat 10 Discount | ![Flat Discount](./screenshots/flat_10.png) |
-| Case 2 - Bulk 5 Discount | ![Bulk 5](./screenshots/bulk_5.png) |
-| Case 3 - Bulk 10 Discount | ![Bulk 10](./screenshots/bulk_10.png) |
-| Case 4 - Tiered 50 Discount | ![Tiered 50](./screenshots/tiered_50.png) |
+| Case 1 - Flat 10 Discount | ![Flat Discount](./screenshorts/flat_10.png) |
+| Case 2 - Bulk 5 Discount | ![Bulk 5](./screenshorts/bulk_5.png) |
+| Case 3 - Bulk 10 Discount | ![Bulk 10](./screenshorts/bulk_10.png) |
+| Case 4 - Tiered 50 Discount | ![Tiered 50](./screenshorts/tiered_50.png) |
 
 
 ---
